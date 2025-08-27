@@ -1,0 +1,4 @@
+C:\Users\glade\Programando\JAVA\Java_Cero\hola_mundo\obj\Debug\net9.0\hola_mundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glade\Programando\JAVA\Java_Cero\hola_mundo\obj\Debug\net9.0\hola_mundo.AssemblyInfoInputs.cache
+C:\Users\glade\Programando\JAVA\Java_Cero\hola_mundo\obj\Debug\net9.0\hola_mundo.AssemblyInfo.cs
+C:\Users\glade\Programando\JAVA\Java_Cero\hola_mundo\obj\Debug\net9.0\hola_mundo.csproj.CoreCompileInputs.cache

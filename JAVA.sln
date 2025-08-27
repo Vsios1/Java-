@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Java_Cero", "Java_Cero", "{3C943BA6-56D4-0224-201B-416F5925B363}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hola_mundo", "Java_Cero\hola_mundo\hola_mundo.csproj", "{7D14D586-3BDC-FAD1-B718-4B87FBE47D54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D14D586-3BDC-FAD1-B718-4B87FBE47D54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D14D586-3BDC-FAD1-B718-4B87FBE47D54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D14D586-3BDC-FAD1-B718-4B87FBE47D54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D14D586-3BDC-FAD1-B718-4B87FBE47D54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7D14D586-3BDC-FAD1-B718-4B87FBE47D54} = {3C943BA6-56D4-0224-201B-416F5925B363}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99283C99-483C-4340-9FE5-3CCE10B786C1}
+	EndGlobalSection
+EndGlobal
