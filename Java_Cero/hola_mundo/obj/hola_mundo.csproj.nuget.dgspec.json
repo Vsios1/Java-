@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\glade\\Programando\\JAVA\\Java_Cero\\hola_mundo\\hola_mundo.csproj": {}
+    "C:\\Users\\HP\\Programando\\Java-\\Java_Cero\\hola_mundo\\hola_mundo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\glade\\Programando\\JAVA\\Java_Cero\\hola_mundo\\hola_mundo.csproj": {
+    "C:\\Users\\HP\\Programando\\Java-\\Java_Cero\\hola_mundo\\hola_mundo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\glade\\Programando\\JAVA\\Java_Cero\\hola_mundo\\hola_mundo.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Programando\\Java-\\Java_Cero\\hola_mundo\\hola_mundo.csproj",
         "projectName": "hola_mundo",
-        "projectPath": "C:\\Users\\glade\\Programando\\JAVA\\Java_Cero\\hola_mundo\\hola_mundo.csproj",
-        "packagesPath": "C:\\Users\\glade\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\glade\\Programando\\JAVA\\Java_Cero\\hola_mundo\\obj\\",
+        "projectPath": "C:\\Users\\HP\\Programando\\Java-\\Java_Cero\\hola_mundo\\hola_mundo.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Programando\\Java-\\Java_Cero\\hola_mundo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\glade\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
