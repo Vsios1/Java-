@@ -94,6 +94,60 @@ public class C_C {
                 break; 
 
             case 3:
+                System.out.println("=========================================");
+                System.out.println("1. Seno, Coseno, Tangente del primer numero");
+                System.out.println("2. Seno, Coseno, Tangente del segundo numero");
+                System.out.println("=========================================");
+                int SCT = cc.nextInt();
+
+                switch (SCT) {
+                    case 1: 
+                        System.out.println("===========");
+                        System.out.println("1. Seno");
+                        System.out.println("2. Coseno");
+                        System.out.println("3. Tangente");
+                        System.out.println("===========");
+                        int SCT1 = cc.nextInt();
+
+                        switch (SCT1) {
+                            case 1 :
+                                System.out.println("El seno de " + val_uno + " es: " + Math.sin(Math.toRadians(val_uno)));
+                                break;
+                            case 2 :
+                                System.out.println("El coseno de " + val_uno + " es: " + Math.cos(Math.toRadians(val_uno)));
+                                break;
+                            case 3:
+                                System.out.println("La tangente de " + val_uno + " es: " + Math.tan(Math.toRadians(val_uno)));
+                                break;
+                            default:
+                                System.out.println("Error, la opción no existe");
+                        }
+                        break;
+                    case 2:
+                        System.out.println("===========");
+                        System.out.println("1. Seno");
+                        System.out.println("2. Coseno");
+                        System.out.println("3. Tangente");
+                        System.out.println("===========");
+                        int SCT2 = cc.nextInt();
+
+                        switch (SCT2) {
+                            case 1 :
+                                System.out.println("El seno de " + val_dos + " es: " + Math.sin(Math.toRadians(val_dos)));
+                                break;
+                            case 2 :
+                                System.out.println("El coseno de " + val_dos + " es: " + Math.cos(Math.toRadians(val_dos)));
+                                break;
+                            case 3:
+                                System.out.println("La tangente de " + val_dos + " es: " + Math.tan(Math.toRadians(val_dos)));
+                                break;
+                            default:
+                                System.out.println("Error, la opción no existe");
+                        }
+                        break;
+                    default:
+                        System.out.println("Error, la opción no existe");
+                } 
                 break;
 
             default:
